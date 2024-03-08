@@ -1,0 +1,32 @@
+﻿  BankSystem.cpp
+E:\C++ OOP2\BankSystem\BankSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+E:\C++ OOP2\BankSystem\BankSystem\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+E:\C++ OOP2\BankSystem\BankSystem\clsUser.h(26,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+E:\C++ OOP2\BankSystem\BankSystem\clsInputValidate.h(114,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsInputValidate.h(118,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(152,12): message : see declaration of 'clsBankClient::stTransferLogRecord'
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsAddNewClientScreen.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsUpdateClientScreen.h(48,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\C++ OOP2\BankSystem\BankSystem\clsUser.h(358): warning C4715: 'clsUser::Save': not all control paths return a value
+E:\C++ OOP2\BankSystem\BankSystem\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  BankSystem.vcxproj -> E:\C++ OOP2\BankSystem\x64\Debug\BankSystem.exe
